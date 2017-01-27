@@ -1,0 +1,9 @@
+package edu.miracosta.cs113.test;
+
+public class TestClass
+{
+    public static void oldmain(String[] args)
+    {
+        System.out.println("Hello Testing");
+    }
+}
